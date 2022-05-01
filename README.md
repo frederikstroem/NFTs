@@ -1,10 +1,10 @@
 # NFTs
-# [Strømcoin](https://explorer-xp.avax.network/asset/acQvLuqBArX9Ywg9vBMvZXCwNxGK2SRHdk4XLonsV5HcC1RAs)
+# Strømcoin
 F.S.
 
-[![Strømcoin](Strømcoin/Strømcoin.jpg "Strømcoin")](https://frederikstroem.com/NFTs/Str%C3%B8mcoin/Str%C3%B8mcoin.jpg)
+[![Strømcoin](Strømcoin/Strømcoin.jpg "Strømcoin")](https://explorer-xp.avax.network/asset/acQvLuqBArX9Ywg9vBMvZXCwNxGK2SRHdk4XLonsV5HcC1RAs)
 
-# [Banan](https://explorer-xp.avax.network/asset/2FYfnanhaCN75aZ28LVG317zkrxeAXMxRvv3BMBjjjrvyKcqVz)
+# Banan
 M.K.
 
-[![Banan](Banan/Banan.jpg "Banan")](https://frederikstroem.com/NFTs/Banan/Banan.jpg)
+[![Banan](Banan/Banan.jpg "Banan")](https://explorer-xp.avax.network/asset/2FYfnanhaCN75aZ28LVG317zkrxeAXMxRvv3BMBjjjrvyKcqVz)
