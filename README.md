@@ -1,4 +1,3 @@
-# NFTs
 # Strømcoin
 F.S.
 
